@@ -12,3 +12,8 @@ Coming soon...
 - [Exception (2) Issue solved by flash](https://github.com/esp8266/Arduino/issues/1699)
 - [CheckFlashConfig by using Arduino](https://github.com/esp8266/Arduino/blob/master/libraries/esp8266/examples/CheckFlashConfig/CheckFlashConfig.ino)
 - [CheckFlashConfigWithWifi by using Arduino](https://gist.github.com/uncletammy/198fec767a8e4803e6af)
+
+## Donation
+If this project help you reduce time to develop, you can give me a cup of coffee :) 
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=A8YE92K9QM7NA)
