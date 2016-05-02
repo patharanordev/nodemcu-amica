@@ -3,6 +3,11 @@
 
 Coming soon...
 
+## Features
+- [x] Connect to WiFi access point (add SSID + password by coding)
+- [x] Web socket connection (for cross platform communication e.g. web, Android, Arduino, ...)
+- [ ] Write log file
+
 ## Helpful link
 
 - [NodeMCU AMICA wifi](http://roboindia.com/tutorials/ESP-8266-builders-kit)
